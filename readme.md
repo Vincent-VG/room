@@ -6,6 +6,6 @@
 
 [ x ] feture-B add tail
 
-
+feture-C text
 
 
